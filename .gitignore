@@ -1,0 +1,9 @@
+# 构建产物
+out/
+
+# Visual Studio 的本地状态 / IntelliSense 数据库
+.vs/
+
+# 用户级配置
+*.user
+CMakeUserPresets.json
